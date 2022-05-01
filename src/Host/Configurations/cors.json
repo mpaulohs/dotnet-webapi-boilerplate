@@ -1,7 +1,8 @@
 {
   "CorsSettings": {
     "Angular": "http://localhost:4200",
-    "Blazor": "https://localhost:5002;https://www.mydomain.my",
+   // "Blazor": "https://localhost:5002;https://www.mydomain.my",
+   "Blazor": "http://mpaulohs-001-site6.itempurl.com",
     "React": "http://localhost:3000"
   }
 }

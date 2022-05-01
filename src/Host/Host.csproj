@@ -3,6 +3,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <RootNamespace>FSH.WebApi.Host</RootNamespace>
         <AssemblyName>FSH.WebApi.Host</AssemblyName>
+      <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="FluentValidation.AspNetCore" Version="10.4.0" />

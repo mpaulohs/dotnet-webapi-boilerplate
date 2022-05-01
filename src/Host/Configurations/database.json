@@ -1,6 +1,7 @@
 {
   "DatabaseSettings": {
     "DBProvider": "mssql",
-    "ConnectionString": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=fullStackHeroDb;Integrated Security=True;MultipleActiveResultSets=True"
+    "ConnectionString2": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=fullStackHeroDb;Integrated Security=True;MultipleActiveResultSets=True",
+    "ConnectionString": "Data Source=SQL5097.site4now.net;Initial Catalog=db_a691fb_fshwebapi;User Id=db_a691fb_fshwebapi_admin;Password=Florida#09"
   }
 }

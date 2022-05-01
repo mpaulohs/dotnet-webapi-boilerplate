@@ -5,7 +5,8 @@ namespace FSH.WebApi.Infrastructure.Persistence.Tests;
 
 public class ConnectionStringSecurerTests
 {
-    private const string Mssql = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=fullStackHeroDb;MultipleActiveResultSets=True;";
+    // private const string Mssql = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=fullStackHeroDb;MultipleActiveResultSets=True;";
+    private const string Mssql = "Data Source=SQL5097.site4now.net;Initial Catalog=db_a691fb_fshwebapi;User Id=db_a691fb_fshwebapi_admin;Password=Florida#09";
     private const string Mysql = "server=127.0.0.1;database=test";
 
     private readonly IConnectionStringSecurer _connectionStringSecurer;
